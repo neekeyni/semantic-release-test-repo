@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test-repo",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "This repo is just a minimal example of using semantic-release to do npm release",
   "main": "index.js",
   "scripts": {
